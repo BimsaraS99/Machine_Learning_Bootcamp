@@ -62,8 +62,11 @@ There are **three main types** of machine learning:
 
 Here’s a 5-minute video that visually explains these concepts:  
 🔗 [What is Machine Learning? (YouTube, Beginner Friendly)](https://www.youtube.com/watch?v=9gGnTQTYNaE)
+
 🔗 [Different between ML and Traditional programming](https://youtu.be/wYJsGHVxY3k?si=eTYXpK5jwn9LFJ27)
+
 🔗 [Supervised vs Unsupervised Machine Learning](https://www.youtube.com/watch?v=W01tIRP_Rqs)
+
 
 ---
 
