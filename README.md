@@ -22,7 +22,7 @@ This course is designed for those who want to get started with Machine Learning 
 
 | Module | Title | Description |
 |--------|-------|-------------|
-| 1 | [What is Machine Learning?](articles/Article_1.1_What_is_ML.md) | Introduction, real-world examples, types of ML |
+| 1 | [What is Machine Learning?](https://github.com/BimsaraS99/Machine_Learning_Bootcamp/tree/main/Module-01) | Introduction, real-world examples, types of ML |
 | 2 | Tools of the Trade | Set up Python, Jupyter, and essential libraries |
 | 3 | Understanding Data | Learn about features, labels, data types |
 | 4 | Preprocessing Data | Clean, normalize, and prepare datasets |
