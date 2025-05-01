@@ -58,10 +58,12 @@ There are **three main types** of machine learning:
 
 ---
 
-## 🎥 Recommended Video
+## 🎥 Recommended Video  
 
 Here’s a 5-minute video that visually explains these concepts:  
-🔗 [What is Machine Learning? (YouTube, Beginner Friendly)](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
+🔗 [What is Machine Learning? (YouTube, Beginner Friendly)](https://www.youtube.com/watch?v=9gGnTQTYNaE)
+🔗 [Different between ML and Traditional programming](https://youtu.be/wYJsGHVxY3k?si=eTYXpK5jwn9LFJ27)
+🔗 [Supervised vs Unsupervised Machine Learning](https://www.youtube.com/watch?v=W01tIRP_Rqs)
 
 ---
 
@@ -109,3 +111,23 @@ In this second case, there are **no if-statements**. The model *learned* the pat
 - It's used everywhere—from email to entertainment to health.
 - There are **3 main types**: Supervised, Unsupervised, and Reinforcement Learning.
 - You can use ML to build smarter systems that adapt and improve over time.
+
+
+
+# 🧠 Answer these Questions...  
+
+---
+
+### ✅ **Review & Reflection Questions**
+
+1. **What is the key difference between traditional programming and machine learning?**  
+2. **Give two real-world examples of how machine learning is used in everyday life.**  
+3. **Explain in your own words what supervised learning is.**  
+4. **What kind of problems would be better suited to unsupervised learning?**  
+5. **How does reinforcement learning differ from supervised learning?**  
+6. **What is the role of data in machine learning? Why is it important?**  
+7. **In the code snippet, what is the purpose of `fit()` in the ML model?**  
+8. **What does the `predict()` function do in a machine learning model?**  
+9. **What are some benefits of using machine learning over rule-based systems?**  
+10. **Why is it important to evaluate machine learning models after training them?**
+
