@@ -4,6 +4,8 @@
 
 Set up a dedicated Conda environment with all the essential Python libraries needed for your machine learning projects. This helps keep your work organized and dependencies isolated.
 
+Watch Video Guide: https://youtu.be/pRhxVr_E3K4?si=60g32WOEXQ2rzEMm
+
 ### What You’ll Learn
 
 * How to create and activate a Conda virtual environment named `ml`
