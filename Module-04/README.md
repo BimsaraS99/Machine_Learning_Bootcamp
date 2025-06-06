@@ -27,7 +27,7 @@ Before training the model, the data must be cleaned and prepared.
 
 > ✅ **Subtasks:**
 
-* Convert categorical values like "Yes"/"No" in the **Extracurricular Activities** column into numerical format (e.g., Yes → 1, No → 0).
+* Remove the **Extracurricular Activities** column from the dataset.
 * Separate the dataset into **input features** (everything except *Performance Index*) and the **target variable** (*Performance Index*).
 
 ---
