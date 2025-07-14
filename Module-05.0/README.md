@@ -10,13 +10,15 @@
 
    * Example: In the same housing dataset, the label would be the house price.
 
-> 🧠 For unsupervised learning, labels might not be present—only features are used to find patterns or clusters.
+🧠 For unsupervised learning, labels might not be present—only features are used to find patterns or clusters.
+
 ---
 
 
 2. What are features in a machine learning dataset, and what role do they play in model training?
 
 Features are the input variables or measurable properties of the data used by a machine learning model to make predictions.
+
 ---
 
 
