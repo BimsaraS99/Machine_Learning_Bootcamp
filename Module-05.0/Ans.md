@@ -76,3 +76,9 @@ So, 4,096 pixels × 3 channels = 12,288 features per image.
 ## 8. What is the target of the dataset?
 
 Shape (Circle or Squre)
+
+
+## 9. Why is it better to convert images to grayscale before feature extraction in the case of Module 5.1?
+
+Since the images are binary, loading them as RGB unnecessarily increases the number of features without adding useful information.
+
