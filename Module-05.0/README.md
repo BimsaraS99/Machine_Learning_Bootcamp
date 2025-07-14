@@ -36,7 +36,6 @@ These are the columns used to predict performance:
 4. **Sleep Hours**
 5. **Sample Question Papers Practiced**
 
----
 
 ### 🎯 **Target (Label / Output): (1 Target)**
 
